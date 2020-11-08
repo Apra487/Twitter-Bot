@@ -167,10 +167,10 @@ const mailOptions = {
 (async function() {
   // TODO: connect to twitter via api
     const client = new Twitter({
-        consumer_key: 'k885QylCszwbTJFPOxUIZOodk',                                 //'Mnsdqu9jj70P51KueWZaoEzHG',
-        consumer_secret: 'twpml1MbdrHpvtvfDHYqQlqWEHNOnqn4gYHeznH94plKpraHri',       //'h7vwxmXkHcFKvAnE6bqOwWynRhafuDDyRMROTtC2rG7BmdEKDj',          
-        access_token_key: '1313328500686815233-5Ygjq8hWOs9fzJDO008yr3QsNZYGXr',          //'1311904892076781568-wn9Ou0LZqmyLgTk7ZqCmG1Yx5ocXDX',           
-        access_token_secret: 'SbvVA0PzORlM53RGKbeVXcwRiTWyDgskriniBHBmsTINX'               //'ppOR0SeUKYVVsfV11zxphffbkHmlBbaHfHn52mLtVztUX'            
+        consumer_key: ,
+        consumer_secret:  ,
+        access_token_key:     ,      
+        access_token_secret: , 
       });
       function like(i){
         // console.log(tweets.statuses);
